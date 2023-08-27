@@ -1,1 +1,5 @@
-
+## Exercise 1
+### Task:
+* From the Parch and Posey dataset, write queries to retrieve data from a given table and display specific columns using SELECT, FROM, WHERE and other appropriate clauses. 
+### Instruction: 
+- [ ] Submit only the queries that retrieve the required data, in a single document; the resulting tables are not required.
